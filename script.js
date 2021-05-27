@@ -33,8 +33,6 @@ $(document).ready(function(){
         $('.menu-btn i').toggleClass("active");
     });
 
-    
-
     var typed = new Typed(".typing-2", {
         strings: ["Student", "Developer", "Designer", "Freelancer"],
         typeSpeed: 100,
